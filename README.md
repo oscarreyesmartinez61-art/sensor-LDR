@@ -1,1 +1,1 @@
-# sensor-LDR
+Este proyecto implementa un sistema de adquisición de datos analógicos utilizando un ESP32. Se realiza la lectura de una señal mediante el ADC y se aplican diferentes técnicas de filtrado digital como promedio, mediana y filtro exponencial. Los datos son procesados en tiempo real, visualizados en consola y almacenados en un archivo CSV. Además, se permite modificar la frecuencia de muestreo y activar/desactivar filtros mediante botones físicos.
